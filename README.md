@@ -1,0 +1,3 @@
+# Monthly Money Manager (LKR)
+
+Initializing repository...
